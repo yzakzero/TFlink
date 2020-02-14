@@ -9,3 +9,4 @@
 ### [Can't Use Conda](https://www.jianshu.com/p/338d596f4d7b?utm_campaign)
 ### [Mac10.15 set Conda](https://blog.csdn.net/u013241595/article/details/102391314)
 ### [Conda command](https://www.jianshu.com/p/7ebe1df808ba)
+### [Change Conda source](https://www.jianshu.com/p/2d416672c1d6)
