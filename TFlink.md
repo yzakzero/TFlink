@@ -10,3 +10,4 @@
 ### [Mac10.15 set Conda](https://blog.csdn.net/u013241595/article/details/102391314)
 ### [Conda command](https://www.jianshu.com/p/7ebe1df808ba)
 ### [Change Conda source](https://www.jianshu.com/p/2d416672c1d6)
+### [Pycharm use Anaconda pkg](https://blog.csdn.net/qq_41149269/article/details/81268482)
