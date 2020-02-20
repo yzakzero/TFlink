@@ -11,3 +11,11 @@
 ### [Conda command](https://www.jianshu.com/p/7ebe1df808ba)
 ### [Change Conda source](https://www.jianshu.com/p/2d416672c1d6)
 ### [Pycharm use Anaconda pkg](https://blog.csdn.net/qq_41149269/article/details/81268482)
+
+## Tutoria
+### 切换bash（需要sudo）
+```
+chsh -s /bin/bash
+切换zsh（不需要sudo）
+chsh -s /bin/zsh
+```
